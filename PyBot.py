@@ -2,7 +2,7 @@ import telebot
 import random
 from telebot import types
 
-bot = telebot.TeleBot('6209692229:AAG8JZmSWr2XQ1dvhQ_AU3UNni4KC_mXGOk')
+bot = telebot.TeleBot('0000000000000000000000')
     
 
 
